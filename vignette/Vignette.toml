@@ -1,0 +1,15 @@
+# The vignette of ErrorComponents.jl, written by Pollis (Compose > New Methods > Package and Publish) and shown in
+# Help > Documentation > Vignettes once the package is installed.
+
+article = "https://doi.org/10.1016/S0304-4076(00)00089-0"
+author = "Antonio Saragga Seabra"
+citation = "Baltagi, B. H., Song, S. H. and Jung, B. C. (2001). The unbalanced nested error component regression model. Journal of Econometrics 101(2), 357-381."
+description = "Random-effects panel regressions with the variance components estimated by Wallace-Hussain, Amemiya, Swamy-Arora, Henderson's method III or MIVQUE, one-way, two-way and nested, tested on Baltagi's tables for the Grunfeld, gasoline and public capital data."
+license = "MIT"
+method = "WALHUS, AMEMIYA, Swamy-Arora and nested error components"
+package = "ErrorComponents"
+pdf = "ErrorComponents.pdf"
+repository = "https://github.com/Trumpingtons/ErrorComponents.jl"
+title = "WALHUS, AMEMIYA, Swamy-Arora and nested error components"
+topic = "Panel Econometrics"
+version = "0.2.0"

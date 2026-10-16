@@ -20,6 +20,10 @@ fit.coef, fit.se, sqrt.(fit.variances)  # sigma_mu, sigma_lambda, sigma_nu
 
 [WALHUS, AMEMIYA, Swamy-Arora and nested error components](vignette/ErrorComponents.pdf)
 
+## License
+
+MIT (see [LICENSE](LICENSE)).
+
 ## Tests
 
 The tests compute the published tables below from their data and check every printed value, rounded to the digits printed:
